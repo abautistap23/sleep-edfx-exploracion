@@ -1,0 +1,10 @@
+mne
+pandas
+numpy
+matplotlib
+openpyxl
+pyedflib
+jupyterlab
+ipykernel
+nbformat
+nbclient
